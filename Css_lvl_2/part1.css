@@ -1,0 +1,30 @@
+h1{
+  font-family: "Arial";
+  text-align: center;
+}
+
+/* 1em=10px
+2em=20px */
+
+p {
+   font-family: 'AvaraBold';
+   font-weight: normal;
+   font-style: normal;
+}
+
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 1.0em;
+}
+
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+}
