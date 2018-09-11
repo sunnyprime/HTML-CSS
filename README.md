@@ -15,4 +15,7 @@ A slash symbol is also used as a closing tag. For example:
 
 ### 3. What is Doctype html
 
-![Doctype Html](https://www.google.co.in/imgres?imgurl=https://www.html-5-tutorial.com/images/doctype.gif&imgrefurl=https://www.html-5-tutorial.com/doctype.htm&h=194&w=163&tbnid=nuH4WxyyzhS1HM:&q=what+are+doctype+html&tbnh=160&tbnw=134&usg=AFrqEzfFraHsObvHFi7WWDs_nPRNDJNszg&vet=1&docid=p6N7zeBpxoT7gM&sa=X&ved=2ahUKEwje7tb9n7PdAhVIW7wKHacZAxwQ9QEwAHoECAkQBg)
+The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in. In HTML 4.01, the <!DOCTYPE> declaration refers to a DTD, because HTML 4.01 was based on SGML. ... HTML5 is not based on SGML, and therefore does not require a reference to a DTD
+
+#### 4. What is Responsive Web Design?
+Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):
