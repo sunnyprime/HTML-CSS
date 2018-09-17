@@ -23,7 +23,7 @@ The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web b
 #### 4. What is Responsive Web Design?
 Responsive Web Design is about using HTML and CSS to automatically resize, hide, shrink, or enlarge, a website, to make it look good on all devices (desktops, tablets, and phones):
 
-### 5. [All Types of HTML](https://www.visualcplusdotnet.com/xmlhtmlxsdxsldom.html)
+### 5. [Types of modules related to HTML](https://www.visualcplusdotnet.com/xmlhtmlxsdxsldom.html)
 
 URIs, URLs and URNs
 
